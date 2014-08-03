@@ -1,5 +1,5 @@
 
-This modules allows you to send a message to an Amazon SNS topic from FHEH. For example you could use this to send a message to your email and your mobile number if the front door is left open.
+This module allows you to send a message to an Amazon SNS topic from FHEH. For example you could use this to send a message to your email and your mobile number if the front door is left open.
 
 ## Definition
 
